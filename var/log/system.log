@@ -1,0 +1,259 @@
+[2024-02-14T05:24:01.484749+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:25:01.778772+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:26:02.263951+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:27:01.787700+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:28:02.287804+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:29:01.798117+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:30:02.276086+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:31:01.731970+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:32:02.202910+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:33:01.660297+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:34:02.143365+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:35:01.617343+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:36:02.077519+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:37:01.561947+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:38:02.012888+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T05:39:06.988943+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/aswathy/Documents/Training/magento5/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/aswathy/Documents/Training/magento5/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/aswathy/Documents/Training/magento5/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-14T06:00:03.689432+00:00] main.INFO: Request token opsze5oylxdf42rn9cenkkwmuz3wnkqg was exchanged to obtain access token for consumer 1 [] []
+[2024-02-14T06:00:05.759887+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store."}. Content-Type: application/json; charset=UTF-8 [] []
+[2024-02-14T06:37:30.317591+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-14T06:37:30.336147+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-14T06:37:30.338204+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-14T06:37:30.340054+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-14T06:37:30.341661+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-14T06:37:30.342684+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-14T06:37:30.343595+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-14T06:37:30.344518+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-14T06:37:30.345458+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-14T06:37:30.346929+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-14T06:37:30.348737+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-14T06:37:30.350484+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-14T06:37:30.352026+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-14T06:37:30.352987+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-14T06:37:30.354011+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-14T06:37:30.354913+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-14T06:37:30.355804+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-14T06:37:30.356764+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-14T06:37:30.358543+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-14T06:37:30.360281+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-14T06:37:30.362097+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-14T06:37:30.363837+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-14T06:37:30.365886+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-14T06:37:30.367706+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-14T06:37:30.369516+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-14T06:37:30.371376+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-14T06:37:30.373117+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-14T06:37:30.374170+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-14T06:37:30.375115+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-14T06:37:30.376094+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-14T06:37:30.377044+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-14T06:37:30.378071+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-14T06:37:30.379820+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-14T06:37:30.381574+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-14T06:37:30.383374+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-14T06:37:30.385082+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-14T06:37:30.386920+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-14T06:37:30.388730+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-14T06:37:30.390024+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-14T06:37:30.390966+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-14T06:37:30.391907+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-14T06:37:30.392828+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-14T06:37:30.393817+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-14T06:37:30.394945+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-14T06:37:30.396756+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-14T06:37:30.398546+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-14T06:37:30.400319+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-14T06:37:30.402069+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-14T06:37:30.403888+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-14T06:37:30.405424+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-14T06:37:30.406442+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-14T06:37:30.407374+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-14T06:37:30.408351+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-14T06:37:30.409282+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-14T06:37:30.410511+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-14T06:37:30.412254+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-14T06:37:30.413997+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-14T06:37:30.415287+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-14T06:37:30.416198+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-14T06:37:30.417107+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-14T06:37:30.418102+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-14T06:37:30.419072+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-14T06:37:30.420396+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-14T06:37:30.422217+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-14T06:37:30.424029+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-14T06:37:30.425763+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-14T06:37:30.427514+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-14T06:37:30.429328+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-14T06:37:30.430834+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-14T06:37:30.431775+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-14T06:37:30.432730+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-14T06:37:30.433679+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-14T06:37:30.434591+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-14T06:37:30.435489+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-14T06:37:30.437207+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-14T06:37:30.439032+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-14T06:37:30.440760+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-14T06:37:30.442229+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-14T06:37:30.443950+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-14T06:37:30.445684+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-14T06:37:30.447324+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-14T06:37:30.449133+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-14T06:37:30.450879+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-14T06:37:30.452031+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-14T06:37:30.452940+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-14T06:37:30.453871+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-14T06:37:30.454770+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-14T06:37:30.455656+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-14T06:37:30.456973+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-14T06:37:30.458867+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-14T06:37:30.460598+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-14T06:37:30.462215+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-14T06:37:30.463501+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-14T06:37:30.464822+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-14T06:37:30.466193+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-14T06:37:30.467177+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-14T06:37:30.468066+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-14T06:37:30.468964+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-14T06:37:30.470284+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-14T06:37:30.471216+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-14T06:37:30.472127+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-14T06:37:30.473865+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-14T06:37:30.475588+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-14T06:37:30.477317+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-14T06:37:30.478693+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-14T06:37:30.479677+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-14T06:37:30.480738+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-14T06:37:30.482463+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-14T06:37:30.484284+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-14T06:37:30.486026+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-14T06:37:30.487211+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-14T06:37:30.488175+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-14T06:37:30.489268+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-14T06:37:30.491055+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-14T06:37:30.492781+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-14T06:37:30.494610+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-14T06:37:30.496258+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-14T06:37:30.497959+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-14T06:37:30.499710+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-14T06:37:30.501663+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-14T06:37:30.503426+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-14T06:37:30.504789+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-14T06:37:30.506156+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-14T06:37:30.507426+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-14T06:37:30.508705+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-14T06:42:40.557515+00:00] main.ERROR: Sample Data error: Warning: file_get_contents(/home/aswathy/Documents/Training/magento5/pub/media/downloadable/files/links/l/u/luma_background_-_model_against_fence_4_sec_.mp4): Failed to open stream: No such file or directory in /home/aswathy/Documents/Training/magento5/vendor/magento/module-downloadable-sample-data/Model/Product/Converter.php on line 132 [] []
+[2024-02-14T06:43:09.923388+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:43:09.965764+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:01.728896+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:01.776062+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:06.395340+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:10.822167+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:39.664333+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:39.776631+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:39.899324+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:40.143094+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:40.252981+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:40.370639+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T06:44:49.777881+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T07:00:06.477517+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store."}. Content-Type: application/json; charset=UTF-8 [] []
+[2024-02-14T07:01:02.734492+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T07:01:02.829187+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T07:01:02.905470+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T07:01:05.080142+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-14T08:00:08.029015+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store."}. Content-Type: application/json; charset=UTF-8 [] []
